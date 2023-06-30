@@ -1,0 +1,5 @@
+This repository includes coding projects of mine that I am able to share publicly.
+
+Each subfolder includes a year noting the year in which the main coding work was completed.
+
+By the time you're reading these codes, I am probably already embarassed by them.
